@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-toolkit-rtk-query",
+  "version": "1.0.0",
+  "description": "React Redux Toolkit RTK Query: https://youtu.be/9V-Up8QT7tM",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordi-GV-Ikea/react-redux-toolkit-rtk-query.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordi-GV-Ikea/react-redux-toolkit-rtk-query/issues"
+  },
+  "homepage": "https://github.com/Jordi-GV-Ikea/react-redux-toolkit-rtk-query#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
